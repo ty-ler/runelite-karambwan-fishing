@@ -12,7 +12,7 @@ import net.runelite.client.util.Text;
 @Slf4j
 @PluginDescriptor(
 	name = "Karambwan Fishing",
-	description = "Make \"Last Destination\" the first option on Zanaris Fairy Ring for easy Karambwan fishing/banking in Zanaris."
+	description = "Swap Last Destination/Configure options on Zanaris Fairy Ring for easy Karambwan (CKR) teleport after banking."
 )
 public class KarambwanFishingPlugin extends Plugin
 {

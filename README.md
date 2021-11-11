@@ -1,3 +1,3 @@
 # Karambwan Fishing Plugin
 
-Swap Last Destination/Configure options on Zanaris Fairy Ring for easy Karambwan (CKR) teleport after banking in Zanaris.
+Make "Zanaris" the first menu option on Fairy Ring next to Karambwans (DKP). Eliminates the need to right click the Fairy Ring when banking at Zanaris.
